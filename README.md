@@ -1,4 +1,4 @@
-#Vue实现Markdown组件
+# Vue实现Markdown组件
 
 1. ### cnpm run dev 本地查看
 	http://localhost:8080/
